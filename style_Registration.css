@@ -1,0 +1,34 @@
+body{
+	background-image: linear-gradient(135deg, #FAB2FF 10%, #1904E5 100%);
+}
+h3{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:#6262e1;
+  text-align: center; 
+}
+p{
+	font-family: Calibri; 
+	font-size: 10pt;         
+	font-style: normal; 
+	font-weight: bold; 
+	color:black;
+	text-align: center;
+	
+}
+table{
+  font-family: Calibri; 
+  color:#000000; 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  background-color: #e1c1e1; 
+  border-collapse: collapse; 
+  border: 1px solid navy
+}
+table.inner{
+  border: 0px
+}
